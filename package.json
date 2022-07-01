@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "rafalesson-backend",
+  "description": "teste",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bc-fullstack-01/Rafalesson-backend.git"
+  },
+  "author": "Rafalesson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bc-fullstack-01/Rafalesson-backend/issues"
+  },
+  "homepage": "https://github.com/bc-fullstack-01/Rafalesson-backend#readme"
+}
