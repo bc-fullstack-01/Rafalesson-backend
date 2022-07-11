@@ -3,12 +3,12 @@
     "express": "^4.18.1"
   },
   "scripts": {
-    "start": "nodemon express-fs-static.js"
+    "start": "nodemon express-server/express-rest.js"
   },
   "name": "rafalesson-backend",
   "description": "teste",
   "version": "1.0.0",
-  "main": "express-server.js",
+  "main": "express-server/express-rest.js",
   "devDependencies": {
     "nodemon": "^2.0.19"
   },
